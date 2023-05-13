@@ -16,3 +16,8 @@ DB user : reactapp password : P@ssw0rd
 ```
 
 ## Database members
+
+| username  | password |
+| ------------- | ------------- |
+| JohnDoe  | password123  |
+| JaneSmith  | pass456  |
