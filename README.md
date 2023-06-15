@@ -21,3 +21,9 @@ DB user : reactapp password : P@ssw0rd
 | ------------- | ------------- |
 | JohnDoe  | password123  |
 | JaneSmith  | pass456  |
+
+
+# Revise
+
+- change to frontend/backend to pmpm 
+- change to Vite
